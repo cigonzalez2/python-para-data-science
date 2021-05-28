@@ -1,4 +1,4 @@
-# python-para-data-science
+# Python para Data Science
 Repositorio que contiene las clases de Python para Data Science 
 
 ## Microsoft Azure Data Scientist
