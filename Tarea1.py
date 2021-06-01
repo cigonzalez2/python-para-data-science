@@ -27,11 +27,16 @@ def nombre_funcion(argumentos):
 
 # Tablas:
 
+# Tablas:
+
 import pandas as pd
 
+datos_filas1 = [1,2,3,4]
+datos_filas2 = ['a', 'b', 'c', 'd']
+
 datos = {
-  'col1' = [datos_filas],
-  'col2' = [datos_filas]
+  'col1' : datos_filas1,
+  'col2' : datos_filas2
 }
 
 tabla = pd.DataFrame(datos)
