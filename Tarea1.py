@@ -1,6 +1,6 @@
-#********************
-      TAREA 1 
-#********************
+#*********************
+#      TAREA 1       *
+#*********************
 
 
 #     1. Hacer una funcion que entregue un promedio de notas.
@@ -10,26 +10,22 @@
 #     d) Imprimir un dataframe con las notas y los ramos.
 
 #********************
-#      TORPEDO   
+#      TORPEDO      *
 #********************
 
-#**********************
-# Input Variables:
-#**********************
+# Input Variables  
 
 var1 = float(input('texto'))
 
-#**********************
+
 # Funciones:
-#**********************
 
 def nombre_funcion(argumentos):
   aux = 'algo'
   return aux
 
-#**********************
+
 # Tablas:
-#**********************
 
 import pandas as pd
 
