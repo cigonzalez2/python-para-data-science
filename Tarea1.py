@@ -27,8 +27,6 @@ def nombre_funcion(argumentos):
 
 # Tablas:
 
-# Tablas:
-
 import pandas as pd
 
 datos_filas1 = [1,2,3,4]
